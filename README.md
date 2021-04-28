@@ -4,3 +4,7 @@ Mini projects for understanding Machine Learning concepts during my #66daysofdat
 1st mini-project
 Title: Logistic Regession VS Random Forest on breast cancer dataset.
 Learning topic: How to compare two Machine Learning models, using ROC and AUC.
+
+2nd mini-project
+Title: Numpy - A simple use case for joining tables
+Learning topic: Get introduced to Numpy's concatenate, vstack and hstack methods
